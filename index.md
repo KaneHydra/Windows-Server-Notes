@@ -8,27 +8,29 @@ tags: []
 
 ## 教學順序
 
-系統初始化
-檔案權限與共用資料夾
-磁碟配額
-如何在Win10上為用戶指定硬碟空間配額 - 每日頭條
-利用磁碟配額功能可以限制不同用戶使用的磁碟空間大小 - 每日頭條
-HyperV存取Host資料夾
-
-新增使用者
-DomainController
-DNS
-IIS
-FTP
-SSL*CA*憑證發行
-DHCP_server
-大量新增使用者
-GOP委派
-GPO群組原則
-RDP遠端桌面
-DFS分散式系統
-
-powershell-commands
+[./topic/01-Hyper-V-虛擬機安裝.md]
+[./topic/02-Hyper-V-匯入匯出虛擬機器.md]
+[./topic/03-Hyper-V-存取Host資料夾.md]
+[./topic/04-系統初始化.md]
+[./topic/05-新增使用者.md]
+[./topic/06-0-檔案權限與共用資料夾.md]
+[./topic/06-1-PowerShell-Get-ACL-顯示擁有者.md]
+[./topic/06-2-cmd-run-as-以不同使用者身分執行.md]
+[./topic/06-3-cmd-net-use-連線網路磁碟機.md]
+[./topic/07-0-磁碟配額.md]
+[./topic/07-1-磁碟配額-利用磁碟配額功能可以限制不同用戶使用的磁碟空間大小-每日頭條.md]
+[./topic/07-2-磁碟配額-如何在Win10上為用戶指定硬碟空間配額-每日頭條.md]
+[./topic/08-DomainController.md]
+[./topic/09-IIS.md]
+[./topic/10-DNS.md]
+[./topic/11-FTP.md]
+[./topic/12-SSL-CA-憑證發行.md]
+[./topic/13-DHCP.md]
+[./topic/14-GPO群組原則.md]
+[./topic/15-大量新增使用者.md]
+[./topic/16-GOP委派.md]
+[./topic/17-RDP遠端桌面.md]
+[./topic/18-DFS分散式系統.md]
 
 ## 老師的課鋼
 
