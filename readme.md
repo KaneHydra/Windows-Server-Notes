@@ -223,7 +223,7 @@ CA0273-Ch16-AD DS與防火牆
 
 ## my vim command note
 
-find pattern, remove all till the line end
+find pattern, remove from pattern to line end
 
 ```sh
 :%s/{pattern}.*//
