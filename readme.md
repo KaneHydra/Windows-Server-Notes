@@ -70,7 +70,7 @@ tags: []
 
 ## 投影片
 
-### [Windows Server 2008 架站實務](https://drive.google.com/drive/folders/1E84BVpKEUtUtv428NlJlHlNy7LNgqtVQ?usp=drive_link)
+### [Windows Server 2008 架站實務](https://drive.google.com/drive/folders/1JjHHWlMnIJ62I06fEFadE7bIDfkMAqP3?usp=drive_link)
 
 FT201-ch02-準備好架站的網路環境
 
