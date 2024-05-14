@@ -1,4 +1,10 @@
-## runas - command
+---
+id: cmd-run-as-以不同使用者身分執行
+aliases: []
+tags: []
+---
+
+# runas - command
 
 windows `runas` command is just like linux `su` command
 
@@ -30,23 +36,4 @@ explorer.exe
 taskkill /f /IM explorer.exe
 # 在 Command Prompt 1:
 explorer.exe
-```
-
-## `Get-ACL`
-
-### 顯示擁有者
-
-```powershell
-Get-ACL 檔案或資料夾的路徑 | Select-Object Owner
-```
-
-## net 連線網路磁碟機
-
-[參考: net-use-command](https://www.lifewire.com/net-use-command-2618096)
-
-```powershell
-NET USE Drive: \\server\share_folder
-NET USE Drive: \\server\share_folder password /USER:drive_domain\user_name
-NET USE drive: /DELETE
-
 ```
