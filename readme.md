@@ -57,16 +57,16 @@ tags: []
 
 ## 投影片資料夾
 
-| 代號 | 資料夾 | 編號   | 書名                                               |
-| ---- | ------ | ------ | -------------------------------------------------- |
-|      |        | FT201  | [### Windows Server 2008 架站實務]                 |
-| C    | WS2016 | CA237  | [### Windows Server 2016 系統建置實務]             |
-| D    | WS2016 | CA240  | [### Windows Server 2016 網路與網站建置實務]       |
-|      | WS2016 | CA245  | [### Windows Server 2016 Active Directory建置實務] |
-|      | WS2019 |        | [### Windows Server 2019 系統與網站建置實務]       |
-|      | WS2019 | CA259  | [### Windows Server 2019 Active Directory建置實務] |
-| A    | WS2022 | CA0272 | [### Windows Server 2022 系統與網站建置實務]       |
-| B    | WS2022 | CA0273 | [### Windows Server 2022 Active Directory建置實務] |
+| 代號 | 資料夾 | 編號   | 書名                                         |
+| ---- | ------ | ------ | -------------------------------------------- |
+|      |        | FT201  | Windows Server 2008 架站實務                 |
+| C    | WS2016 | CA237  | Windows Server 2016 系統建置實務             |
+| D    | WS2016 | CA240  | Windows Server 2016 網路與網站建置實務       |
+|      | WS2016 | CA245  | Windows Server 2016 Active Directory建置實務 |
+|      | WS2019 |        | Windows Server 2019 系統與網站建置實務       |
+|      | WS2019 | CA259  | Windows Server 2019 Active Directory建置實務 |
+| A    | WS2022 | CA0272 | Windows Server 2022 系統與網站建置實務       |
+| B    | WS2022 | CA0273 | Windows Server 2022 Active Directory建置實務 |
 
 ## 投影片
 
