@@ -8,29 +8,29 @@ tags: []
 
 ## 教學順序
 
-[./topic/01-Hyper-V-虛擬機安裝.md]  
-[./topic/02-Hyper-V-匯入匯出虛擬機器.md]  
-[./topic/03-Hyper-V-存取Host資料夾.md]  
-[./topic/04-系統初始化.md]  
-[./topic/05-新增使用者.md]  
-[./topic/06-0-檔案權限與共用資料夾.md]  
-[./topic/06-1-PowerShell-Get-ACL-顯示擁有者.md]  
-[./topic/06-2-cmd-run-as-以不同使用者身分執行.md]  
-[./topic/06-3-cmd-net-use-連線網路磁碟機.md]  
-[./topic/07-0-磁碟配額.md]  
-[./topic/07-1-磁碟配額-利用磁碟配額功能可以限制不同用戶使用的磁碟空間大小-每日頭條.md]  
-[./topic/07-2-磁碟配額-如何在Win10上為用戶指定硬碟空間配額-每日頭條.md]  
-[./topic/08-DomainController.md]  
-[./topic/09-IIS.md]  
-[./topic/10-DNS.md]  
-[./topic/11-FTP.md]  
-[./topic/12-SSL-CA-憑證發行.md]  
-[./topic/13-DHCP.md]  
-[./topic/14-GPO群組原則.md]  
-[./topic/15-大量新增使用者.md]  
-[./topic/16-GOP委派.md]  
-[./topic/17-RDP遠端桌面.md]  
-[./topic/18-DFS分散式系統.md]
+[01-Hyper-V-虛擬機安裝.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/01-Hyper-V-虛擬機安裝.md)  
+[02-Hyper-V-匯入匯出虛擬機器.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/02-Hyper-V-匯入匯出虛擬機器.md)  
+[03-Hyper-V-存取Host資料夾.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/03-Hyper-V-存取Host資料夾.md)  
+[04-系統初始化.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/04-系統初始化.md)  
+[05-新增使用者.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/05-新增使用者.md)  
+[06-0-檔案權限與共用資料夾.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/06-0-檔案權限與共用資料夾.md)  
+[06-1-PowerShell-Get-ACL-顯示擁有者.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/06-1-PowerShell-Get-ACL-顯示擁有者.md)  
+[06-2-cmd-run-as-以不同使用者身分執行.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/06-2-cmd-run-as-以不同使用者身分執行.md)  
+[06-3-cmd-net-use-連線網路磁碟機.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/06-3-cmd-net-use-連線網路磁碟機.md)  
+[07-0-磁碟配額.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/07-0-磁碟配額.md)  
+[07-1-磁碟配額-利用磁碟配額功能可以限制不同用戶使用的磁碟空間大小-每日頭條.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/07-1-磁碟配額-利用磁碟配額功能可以限制不同用戶使用的磁碟空間大小-每日頭條.md)  
+[07-2-磁碟配額-如何在Win10上為用戶指定硬碟空間配額-每日頭條.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/07-2-磁碟配額-如何在Win10上為用戶指定硬碟空間配額-每日頭條.md)  
+[08-DomainController.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/08-DomainController.md)  
+[09-IIS.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/09-IIS.md)  
+[10-DNS.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/10-DNS.md)  
+[11-FTP.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/11-FTP.md)  
+[12-SSL-CA-憑證發行.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/12-SSL-CA-憑證發行.md)  
+[13-DHCP.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/13-DHCP.md)  
+[14-GPO群組原則.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/14-GPO群組原則.md)  
+[15-大量新增使用者.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/15-大量新增使用者.md)  
+[16-GOP委派.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/16-GOP委派.md)  
+[17-RDP遠端桌面.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/17-RDP遠端桌面.md)  
+[18-DFS分散式系統.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/18-DFS分散式系統.md)
 
 ## 老師的課鋼
 
@@ -57,24 +57,24 @@ tags: []
 
 ## 投影片資料夾
 
-| 代號 | 資料夾 | 編號   | 書名                                         |
-| ---- | ------ | ------ | -------------------------------------------- |
-|      |        | FT201  | Windows Server 2008 架站實務                 |
-| C    | WS2016 | CA237  | Windows Server 2016 系統建置實務             |
-| D    | WS2016 | CA240  | Windows Server 2016 網路與網站建置實務       |
-|      | WS2016 | CA245  | Windows Server 2016 Active Directory建置實務 |
-|      | WS2019 |        | Windows Server 2019 系統與網站建置實務       |
-|      | WS2019 | CA259  | Windows Server 2019 Active Directory建置實務 |
-| A    | WS2022 | CA0272 | Windows Server 2022 系統與網站建置實務       |
-| B    | WS2022 | CA0273 | Windows Server 2022 Active Directory建置實務 |
+| 代號 | 資料夾 | 編號   | 書名                                               |
+| ---- | ------ | ------ | -------------------------------------------------- |
+|      |        | FT201  | [### Windows Server 2008 架站實務]                 |
+| C    | WS2016 | CA237  | [### Windows Server 2016 系統建置實務]             |
+| D    | WS2016 | CA240  | [### Windows Server 2016 網路與網站建置實務]       |
+|      | WS2016 | CA245  | [### Windows Server 2016 Active Directory建置實務] |
+|      | WS2019 |        | [### Windows Server 2019 系統與網站建置實務]       |
+|      | WS2019 | CA259  | [### Windows Server 2019 Active Directory建置實務] |
+| A    | WS2022 | CA0272 | [### Windows Server 2022 系統與網站建置實務]       |
+| B    | WS2022 | CA0273 | [### Windows Server 2022 Active Directory建置實務] |
 
 ## 投影片
 
-### [Windows Server 2008 架站實務](https://drive.google.com/drive/folders/1JjHHWlMnIJ62I06fEFadE7bIDfkMAqP3?usp=drive_link)
+[### Windows Server 2008 架站實務](https://drive.google.com/drive/folders/1JjHHWlMnIJ62I06fEFadE7bIDfkMAqP3?usp=drive_link)
 
 FT201-ch02-準備好架站的網路環境
 
-### [Windows Server 2016 系統建置實務](https://drive.google.com/drive/folders/1Lli0dRV1aF6OVBuXfv1swhq0otiqrAEC?usp=drive_link)
+[### Windows Server 2016 系統建置實務](https://drive.google.com/drive/folders/1Lli0dRV1aF6OVBuXfv1swhq0otiqrAEC?usp=drive_link)
 
 CA237-Ch01-Windows Server 2016概觀  
 CA237-Ch02-安裝Windows Server 2016  
@@ -95,7 +95,7 @@ CA237-Ch16-分散式檔案系統
 CA237-Ch17-建置iSCSI檔案伺服器容錯移轉叢集  
 CA237-Ch18-系統啟動的疑難排除
 
-### [Windows Server 2016 Active Directory 建置實務](https://drive.google.com/drive/folders/1q2rkNORQ_I8UxN1qZKiQ34aOVmoPMyVl?usp=drive_link)
+[### Windows Server 2016 Active Directory 建置實務](https://drive.google.com/drive/folders/1q2rkNORQ_I8UxN1qZKiQ34aOVmoPMyVl?usp=drive_link)
 
 CA245-Ch01-Active Directory 網域服務(AD DS)  
 CA245-Ch02-第2章 建立AD DS網域  
@@ -126,7 +126,7 @@ CA240-Ch10-虛擬私人網路(VPN)
 CA240-Ch11-透過DIRECTACCESS 直接存取內部網路資源  
 CA240-Ch12-RADIUS伺服器的架設
 
-### [Windows Server 2019 系統與網站建置實務](https://drive.google.com/drive/folders/17c2DkQQbxY7sfSjOfIhr-6Kgy6iiPAGl?usp=drive_link)
+[### Windows Server 2019 系統與網站建置實務](https://drive.google.com/drive/folders/17c2DkQQbxY7sfSjOfIhr-6Kgy6iiPAGl?usp=drive_link)
 
 Ch01-WINDOWS SERVER 2019概觀  
 Ch02-安裝WINDOWS SERVER 2019  
@@ -146,7 +146,7 @@ Ch15-IIS網站的架設
 Ch16-PKI與HTTPS網站  
 Ch17-SERVER CORE、NANO SERVER與CONTAINER
 
-### [Windows Server 2019 Active Directory 建置實務](https://drive.google.com/drive/folders/1JARqyRm9GANZyWXVnL7q9bo_5-CwsMCy?usp=drive_link)
+[### Windows Server 2019 Active Directory 建置實務](https://drive.google.com/drive/folders/1JARqyRm9GANZyWXVnL7q9bo_5-CwsMCy?usp=drive_link)
 
 CA259-Ch01-Active Directory 網域服務(AD DS)  
 CA259-Ch02-建立AD DS網域  
@@ -165,7 +165,7 @@ CA259-Ch14-利用WSUS部署更新程式
 CA259-Ch15-AD RMS企業文件版權管理  
 CA259-Ch16-AD DS與防火牆
 
-### [Windows Server 2022 系統與網站建置實務](https://drive.google.com/drive/folders/1J2aC4tZVfOCuDLx26Jvi0CjAJtGYNfeP?usp=drive_link)
+[### Windows Server 2022 系統與網站建置實務](https://drive.google.com/drive/folders/1J2aC4tZVfOCuDLx26Jvi0CjAJtGYNfeP?usp=drive_link)
 
 CA0272-Ch01-Windows Server 2022概觀  
 CA0272-Ch02-安裝Windows Server 2022  
@@ -189,7 +189,7 @@ CA0272-Ch19-透過NAT連接網際網路
 CA0272-Ch20-SERVER CORE、NANO SERVER與CONTAINER  
 CA0272-APPA-IPV6基本觀念
 
-### [Windows Server 2022 Active Directory 建置實務](https://drive.google.com/drive/folders/1dlYvBkbdAwr6K2jZocYeFdguO_eVkPku?usp=drive_link)
+[### Windows Server 2022 Active Directory 建置實務](https://drive.google.com/drive/folders/1dlYvBkbdAwr6K2jZocYeFdguO_eVkPku?usp=drive_link)
 
 CA0273-Ch01-Active Directory網域服務(AD DS)  
 CA0273-Ch02-建立AD DS網域  
