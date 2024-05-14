@@ -34,26 +34,27 @@ tags: []
 
 ## 老師的課鋼
 
-| 項次 | 內容                                          | 章節            | 進度 |
-| ---- | --------------------------------------------- | --------------- | ---- |
-| 1    | NTFS 的權限及共用資料夾的設定、磁碟配額(完成) | A: Chap7        | v    |
-| 2    | 遠端桌面連線 (完成)                           | C: Chap12       | v    |
-| 3    | Hyper-V 操作設定(完成)                        | A: Chap5,電子檔 | v    |
-| 4    | Hyper-V 建置環境(完成)                        | A: Chap5,電子檔 | v    |
-| 5    | Windows Server 升級成DC(完成)                 | A: Chap6        | v    |
-| 6    | DNS 伺服器的安裝與設定架設 (完成)             | A: Chap14       | v    |
-| 7    | 架設WEB站台(多個Web站台) (完成)               | A: Chap15       | v    |
-| 8    | 架設FTP站(完成)                               | D: Chap7        | v    |
-| 9    | DHCP伺服器的安裝與設定(完成)                  | A: Chap13       | v    |
-| 11   | 群組原則的處理規則&繼承(完成)                 | B: Chap5,6      | v    |
-|      | 部署軟體(完成)                                |                 | v    |
-|      | 軟體限制原則                                  |                 | v    |
-| 12   | 分散式檔案系統 (完成)                         | A: Chap11       | v    |
-| 13   | Web Farm 與NLB                                | A: Chap17       |      |
-| 14   | AD RMS 企業文件版權管理                       | C: Chap15       |      |
-| 15   | Https網站(完成)                               | A: Chap16       | v    |
-| 16   | 快速建立大量帳密(完成)                        | B: Chap3        | v    |
-| 17   | MMC(GPO委派及自製管理工具)(完成)              | 電子檔          | v    |
+| 項次 | 內容                                          | 章節                                                                                                                                                                                                                                                     | 進度 |
+| ---- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 1    | NTFS 的權限及共用資料夾的設定、磁碟配額(完成) | A: [Chap7](https://docs.google.com/presentation/d/1lkdBfXnjonkZQN3VBYNY-TpgYCLACDmx/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                   | v    |
+| 2    | 遠端桌面連線 (完成)                           | C: [Chap12](https://docs.google.com/presentation/d/1SHWWBNHzjDaG8S7hKk_bJzwnfvS9oYAD/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  | v    |
+| 3    | Hyper-V 操作設定(完成)                        | A: [Chap5](),電子檔                                                                                                                                                                                                                                      | v    |
+| 4    | Hyper-V 建置環境(完成)                        | A: [Chap5](),電子檔                                                                                                                                                                                                                                      | v    |
+| 5    | Windows Server 升級成DC(完成)                 | A: [Chap6](https://docs.google.com/presentation/d/1W0Decx4TX3AKW6gyyunp1SLtvoYpXxWX/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                   | v    |
+| 6    | DNS 伺服器的安裝與設定架設 (完成)             | A: [Chap14](https://docs.google.com/presentation/d/1_QKnEiYkWP9ENP19SDlPbSfT4FTim3dD/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  | v    |
+| 7    | 架設WEB站台(多個Web站台) (完成)               | A: [Chap15](https://docs.google.com/presentation/d/1jRg-zTs3FveQMu1BxcbHH-PW7ct1GEvv/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  | v    |
+| 8    | 架設FTP站(完成)                               | D: [Chap7](https://docs.google.com/presentation/d/1rorztXKbc6PkEY4Zn1nXw44CKQD_IVTO/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                   | v    |
+| 9    | DHCP伺服器的安裝與設定(完成)                  | B: [Chap13](https://docs.google.com/presentation/d/150OruXPXsWgBTeqp7DSjX8cCu7kXDmpo/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  | v    |
+| 10   | 自動信任根CA                                  | A: [Chap13](https://docs.google.com/presentation/d/1nAPNDCW7z21QivYdc8j1UdMMqo4yoVd0/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  | v    |
+| 11   | 群組原則的處理規則&繼承(完成)                 |                                                                                                                                                                                                                                                          | v    |
+|      | 部署軟體(完成)                                | B: [Chap5](https://docs.google.com/presentation/d/1gmRQknMBGC81IVvsovm36EKOLy5aJHiq/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                   | v    |
+|      | 軟體限制原則                                  | B: [Chap6](https://docs.google.com/presentation/d/1Obj6yfp0y0t03-WjtHUj-mZslmRLi7VZ/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                   | v    |
+| 12   | 分散式檔案系統 (完成)                         | A: [Chap11](https://docs.google.com/presentation/d/1j27l6J7x32E6LaTT0_s1FHO2lLV6xXuF/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  | v    |
+| 13   | Web Farm 與NLB                                | A: [Chap17](https://docs.google.com/presentation/d/1mhvHNEryGYODspnm3oesyASAZLVS1Y_Z/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  |      |
+| 14   | AD RMS 企業文件版權管理                       | C: [Chap15](https://docs.google.com/presentation/d/1kMi6DWO3QDcoJWNK6Hv2VGTdscFUmzW8/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  |      |
+| 15   | Https網站(完成)                               | A: [Chap16](https://docs.google.com/presentation/d/1XFBYUqgJoSBPeWRbWQi3zucShqzzJ-d7/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  | v    |
+| 16   | 快速建立大量帳密(完成)                        | B: [Chap3](https://docs.google.com/presentation/d/1pwbux6r62ffn4c5M-MtWcMFzmjNBVyYQ/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true),[電子檔](https://drive.google.com/drive/folders/1VDpxJY4Dwtfx4mYPSccbJ4l-QcR1xMat?usp=drive_link) | v    |
+| 17   | MMC(GPO委派及自製管理工具)(完成)              | [電子檔](https://drive.google.com/drive/folders/1cLOj2Hd7gWQEh3F8rQxcrN7lXU0FgMyK?usp=drive_link)                                                                                                                                                        | v    |
 
 ## 投影片資料夾
 
@@ -68,7 +69,17 @@ tags: []
 | A    | WS2022 | CA0272 | Windows Server 2022 系統與網站建置實務       |
 | B    | WS2022 | CA0273 | Windows Server 2022 Active Directory建置實務 |
 
-## 投影片
+## [老師的筆記](https://drive.google.com/drive/folders/1DebSX-YUonpAapesXci3DGcrcstDZSk8?usp=drive_link)
+
+僅列出這次會考的範圍
+
+[DNS-網域名稱伺服器](https://drive.google.com/drive/folders/1iL7G5HDpYqBjhttEMgKaX-XhA9oixLow?usp=drive_link)  
+[GPO-群組原則](https://drive.google.com/drive/folders/1WvsbWdDOkUudhzncaSrsL8nODns-XTxj?usp=drive_link)  
+[MMC-群組原則委派管理工具](https://drive.google.com/drive/folders/1cLOj2Hd7gWQEh3F8rQxcrN7lXU0FgMyK?usp=drive_link)  
+[MSI-群組原則佈署軟體](https://drive.google.com/drive/folders/1bUzajvaQMnvinpGehTCm_jseyijVvE8M?usp=drive_link)  
+[快速建立大量帳密](https://drive.google.com/drive/folders/1VDpxJY4Dwtfx4mYPSccbJ4l-QcR1xMat?usp=drive_link)
+
+## 老師的投影片
 
 [### Windows Server 2008 架站實務](https://drive.google.com/drive/folders/1JjHHWlMnIJ62I06fEFadE7bIDfkMAqP3?usp=drive_link)
 
@@ -207,16 +218,6 @@ CA0273-Ch13-自動信任根CA
 CA0273-Ch14-利用WSUS部署更新程式  
 CA0273-Ch15-AD RMS企業文件版權管理  
 CA0273-Ch16-AD DS與防火牆
-
-### [筆記](https://drive.google.com/drive/folders/1DebSX-YUonpAapesXci3DGcrcstDZSk8?usp=drive_link)
-
-僅列出這次會考的範圍
-
-[DNS-網域名稱伺服器](https://drive.google.com/drive/folders/1iL7G5HDpYqBjhttEMgKaX-XhA9oixLow?usp=drive_link)
-[GPO-群組原則](https://drive.google.com/drive/folders/1WvsbWdDOkUudhzncaSrsL8nODns-XTxj?usp=drive_link)
-[MMC-群組原則委派管理工具](https://drive.google.com/drive/folders/1cLOj2Hd7gWQEh3F8rQxcrN7lXU0FgMyK?usp=drive_link)
-[MSI-群組原則佈署軟體](https://drive.google.com/drive/folders/1bUzajvaQMnvinpGehTCm_jseyijVvE8M?usp=drive_link)
-[快速建立大量帳密](https://drive.google.com/drive/folders/1VDpxJY4Dwtfx4mYPSccbJ4l-QcR1xMat?usp=drive_link)
 
 ## my vim command note
 
