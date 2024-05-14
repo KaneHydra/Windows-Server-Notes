@@ -6,6 +6,9 @@ tags: []
 
 # Windows Server
 
+> md 資料夾內的markdown檔案爲投影片內容  
+> 需下載後使用 obsidian 開啓資料夾才能正確查看圖片
+
 ## 教學順序
 
 [01-Hyper-V-虛擬機安裝.md](https://github.com/KaneHydra/Windows-Server-Notes/blob/main/topic/01-Hyper-V-虛擬機安裝.md)  
@@ -75,11 +78,15 @@ tags: []
 
 僅列出這次會考的範圍
 
-[DNS-網域名稱伺服器](https://drive.google.com/drive/folders/1iL7G5HDpYqBjhttEMgKaX-XhA9oixLow?usp=drive_link)  
+[NTFS-權限與共用資料夾](https://drive.google.com/drive/folders/1azp5py-_xbDzqyS-1Vmcpqv5HN9qMn9p?usp=drive_link)
+[NTFS-磁碟配額](https://drive.google.com/drive/folders/12njcz-8nuJfJJ-PzB0VhtcHGv7VV1z2L?usp=drive_link)
+[FTP-檔案傳輸](https://drive.google.com/drive/folders/16d5NoUrcPbRrNQQb0d1Ul4zIbJmLv7pg?usp=drive_link)
+[IIS-網站伺服器](https://drive.google.com/drive/folders/1mwBLFEDFc7gJrUss4qIFghVJNiA8KfxW?usp=drive_link)
+[DNS & NET BIOS 網域名稱解析伺服器](https://drive.google.com/drive/folders/1iL7G5HDpYqBjhttEMgKaX-XhA9oixLow?usp=drive_link)  
 [GPO-群組原則](https://drive.google.com/drive/folders/1WvsbWdDOkUudhzncaSrsL8nODns-XTxj?usp=drive_link)  
-[MMC-群組原則委派管理工具](https://drive.google.com/drive/folders/1cLOj2Hd7gWQEh3F8rQxcrN7lXU0FgMyK?usp=drive_link)  
-[MSI-群組原則佈署軟體](https://drive.google.com/drive/folders/1bUzajvaQMnvinpGehTCm_jseyijVvE8M?usp=drive_link)  
-[快速建立大量帳密](https://drive.google.com/drive/folders/1VDpxJY4Dwtfx4mYPSccbJ4l-QcR1xMat?usp=drive_link)
+[MMC-建立群組原則委派管理工具](https://drive.google.com/drive/folders/1cLOj2Hd7gWQEh3F8rQxcrN7lXU0FgMyK?usp=drive_link)  
+[MSI-群組原則佈署軟體範例](https://drive.google.com/drive/folders/1bUzajvaQMnvinpGehTCm_jseyijVvE8M?usp=drive_link)  
+[AD-快速建立大量帳密](https://drive.google.com/drive/folders/1VDpxJY4Dwtfx4mYPSccbJ4l-QcR1xMat?usp=drive_link)
 
 ## 老師的投影片
 
