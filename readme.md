@@ -4,7 +4,7 @@ aliases: []
 tags: []
 ---
 
-# TOC
+# Windows Server
 
 ## 教學順序
 
@@ -207,6 +207,16 @@ CA0273-Ch13-自動信任根CA
 CA0273-Ch14-利用WSUS部署更新程式  
 CA0273-Ch15-AD RMS企業文件版權管理  
 CA0273-Ch16-AD DS與防火牆
+
+### [筆記](https://drive.google.com/drive/folders/1DebSX-YUonpAapesXci3DGcrcstDZSk8?usp=drive_link)
+
+僅列出這次會考的範圍
+
+[DNS-網域名稱伺服器](https://drive.google.com/drive/folders/1iL7G5HDpYqBjhttEMgKaX-XhA9oixLow?usp=drive_link)
+[GPO-群組原則](https://drive.google.com/drive/folders/1WvsbWdDOkUudhzncaSrsL8nODns-XTxj?usp=drive_link)
+[MMC-群組原則委派管理工具](https://drive.google.com/drive/folders/1cLOj2Hd7gWQEh3F8rQxcrN7lXU0FgMyK?usp=drive_link)
+[MSI-群組原則佈署軟體](https://drive.google.com/drive/folders/1bUzajvaQMnvinpGehTCm_jseyijVvE8M?usp=drive_link)
+[快速建立大量帳密](https://drive.google.com/drive/folders/1VDpxJY4Dwtfx4mYPSccbJ4l-QcR1xMat?usp=drive_link)
 
 ## my vim command note
 
