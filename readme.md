@@ -46,7 +46,7 @@ tags: []
 | 08   | 架設FTP站(完成)                               | D: [Chap7](https://docs.google.com/presentation/d/1rorztXKbc6PkEY4Zn1nXw44CKQD_IVTO/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                   | v    |
 | 09   | DHCP伺服器的安裝與設定(完成)                  | B: [Chap13](https://docs.google.com/presentation/d/150OruXPXsWgBTeqp7DSjX8cCu7kXDmpo/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  | v    |
 | 10   | 自動信任根CA(完成)                            | A: [Chap13](https://docs.google.com/presentation/d/1nAPNDCW7z21QivYdc8j1UdMMqo4yoVd0/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  | v    |
-| 11   | 群組原則的處理規則&繼承(完成)                 |                                                                                                                                                                                                                                                          | v    |
+| 11   | 群組原則的處理規則&繼承(完成)                 | B: [Chap4](https://docs.google.com/presentation/d/1Dkffj7eMVyEjh71ZUOHwLRbsT66uz85R/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                   | v    |
 |      | 部署軟體(完成)                                | B: [Chap5](https://docs.google.com/presentation/d/1gmRQknMBGC81IVvsovm36EKOLy5aJHiq/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                   | v    |
 |      | 軟體限制原則                                  | B: [Chap6](https://docs.google.com/presentation/d/1Obj6yfp0y0t03-WjtHUj-mZslmRLi7VZ/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                   | v    |
 | 12   | 分散式檔案系統 (完成)                         | A: [Chap11](https://docs.google.com/presentation/d/1j27l6J7x32E6LaTT0_s1FHO2lLV6xXuF/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true)                                                                                                  | v    |
@@ -56,7 +56,7 @@ tags: []
 | 16   | 快速建立大量帳密(完成)                        | B: [Chap3](https://docs.google.com/presentation/d/1pwbux6r62ffn4c5M-MtWcMFzmjNBVyYQ/edit?usp=drive_link&ouid=117318611789057647792&rtpof=true&sd=true),[電子檔](https://drive.google.com/drive/folders/1VDpxJY4Dwtfx4mYPSccbJ4l-QcR1xMat?usp=drive_link) | v    |
 | 17   | MMC(GPO委派及自製管理工具)(完成)              | [電子檔](https://drive.google.com/drive/folders/1cLOj2Hd7gWQEh3F8rQxcrN7lXU0FgMyK?usp=drive_link)                                                                                                                                                        | v    |
 
-> 備註: 10 老師忘記寫, 但實際上有教, 因為跟 09 的投影片章節相同
+> 備註: 老師有些章節沒寫，已經補上
 
 ## 投影片資料夾
 
