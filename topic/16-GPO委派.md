@@ -1,5 +1,5 @@
 ---
-id: GOP委派
+id: 16-GOP委派
 aliases: []
 tags: []
 ---
@@ -53,6 +53,8 @@ Win + R , 搜尋 MMC
 
 變更密碼  
 重設密碼  
+讀取lockoutTime  
+寫入lockoutTime  
 讀取UserAccountControl  
 寫入UserAccountControl
 
